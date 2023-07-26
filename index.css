@@ -1,0 +1,53 @@
+div{
+    padding-top: 5px;
+}
+.checks{
+    padding-top: 20px;
+}
+.graduated{
+    padding-top: 0;
+    padding-bottom: 15px;
+}
+.female{
+    padding-top: 0;
+}
+p{
+    margin-bottom: 0;
+    margin-top: 40px;
+}
+.Your-Phone{
+    padding-top: 80px;
+}
+.Your-Phone label{
+    padding-right: 3px;
+}
+.E-mail label{
+    margin-right: 35px;
+}
+.first-name{
+    padding-top: 80px;
+}
+.first-name label{
+    margin-right: 13px;
+}
+.Password label{
+    margin-right: 17px;
+}
+.submit{
+    padding-top: 0;
+}
+.submit input{
+    background-color: rgb(78, 78, 78);
+}
+select{
+    width: 150px;
+}
+.one{
+    background-color: red;
+}
+legend{
+    background-color: rgb(117, 117, 247);
+}
+.two{
+    background-color: greenyellow;
+}
